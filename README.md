@@ -6,7 +6,7 @@ A Chrome extension that automatically grabs thousands of image urls from Google 
 
 **Quickstart**
   1. Clone this repository to your local computer
-  2. Edit NAME_LIST in content.js to your desired list of search queries
+  2. Edit NAME_LIST in background.js to your desired list of search queries
   3. Enable developer mode in Chrome, then load as an unpacked extension
   4. Go to http://google.com/images, then type in something and press enter. You should be taken to a view with a searchbox on top
   and a bunch of image thumbnails filling most of the screen.
